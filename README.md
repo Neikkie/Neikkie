@@ -1,5 +1,5 @@
 # Hi, I'm Shanique Beckford 👋
-### MIS Major & Computer Science Minor | iOS Product Developer (Graduating 12/2027)
+### Management Information Systems Major & Computer Science Minor | iOS Product Developer (Graduating 12/2027)
 
 I bridge the gap between complex software engineering and business strategy. I don't just write code; I design, build, and deploy production-ready applications that solve real-world user problems.
 
