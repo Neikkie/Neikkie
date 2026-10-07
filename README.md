@@ -19,7 +19,7 @@ I bridge the gap between complex software engineering and business strategy. I d
 ---
 
 ## 🛠️ Core Skills
-* **Languages & Frameworks:** Swift, SwiftUI, Combine, Java, Python, SQL
+* **Languages & Frameworks:** Swift, SwiftUI, Combine, Java, Python
 * **Data & Architecture:** CoreData, SwiftData, REST APIs, JSON Parsing, MVVM Design Pattern
 * **Business & Analytics:** Systems Analysis, Project Management (Agile/Scrum), Data Visualization
 
