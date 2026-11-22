@@ -23,12 +23,14 @@ I bridge the gap between complex software engineering and business strategy. I d
 | Project | Description |
 |---|---|
 | [Briefly](https://github.com/Neikkie/Briefly-Lecture_to-Note_Summarizer) | **Final project.** AI lecture-to-notes summarizer using Tkinter, pypdf & the Claude API |
-| [Employee Record System](https://github.com/Neikkie/employee-record-system) | **Midterm.** Tkinter app to add, view & edit employee records |
-| [CCSU Mobile App](https://github.com/Neikkie/ccsu-mobile-app) | **Midterm pt. 2.** Campus info app using pandas & CSV data |
-| [Calculator GUI](https://github.com/Neikkie/calculator-gui) | Grid-based Tkinter calculator with error handling |
+| [Employee Record System](https://github.com/Neikkie/Mid-term---Employee-Record-System) | **Midterm.** Tkinter app to add, view & edit employee records |
+| [CCSU Mobile App](https://github.com/Neikkie/Midterm-CCSU-mobile-app) | **Midterm pt. 2.** Campus info app using pandas & CSV data |
+| [Calculator GUI](https://github.com/Neikkie/Calculator-GUI) | Grid-based Tkinter calculator with error handling |
 | [BMI Calculator](https://github.com/Neikkie/bmi-calculator) | Tkinter BMI app with input validation |
 | [Birthday Program](https://github.com/Neikkie/birthday-program) | Menu-driven dictionary CRUD console app |
-| [Dova Health Daily Tracking](https://github.com/Neikkie/Dova-Health-Daily-Tracking) | **Independent
+| [Dova Health Daily Tracking](https://github.com/Neikkie/Dova-Health-Daily-Tracking) | **Independent project.** iOS sleep and health tracker built with SwiftUI, SwiftData & HealthKit, live on the App Store |
+
+---
 ---
 
 ## 🛠️ Core Skills
