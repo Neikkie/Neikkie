@@ -18,7 +18,7 @@ I bridge the gap between complex software engineering and business strategy. I d
 
 ---
 
-## 🐍 Python Portfolio — MIS 310 (CCSU, Fall 2026)
+## 🐍 Project Portfolio — MIS 310 (CCSU, Fall 2026)
 
 | Project | Description |
 |---|---|
@@ -28,8 +28,7 @@ I bridge the gap between complex software engineering and business strategy. I d
 | [Calculator GUI](https://github.com/Neikkie/calculator-gui) | Grid-based Tkinter calculator with error handling |
 | [BMI Calculator](https://github.com/Neikkie/bmi-calculator) | Tkinter BMI app with input validation |
 | [Birthday Program](https://github.com/Neikkie/birthday-program) | Menu-driven dictionary CRUD console app |
-| [7th project](https://github.com/Neikkie/REPO-NAME) | Short description |
-
+| [Dova Health Daily Tracking](https://github.com/Neikkie/Dova-Health-Daily-Tracking) | **Independent
 ---
 
 ## 🛠️ Core Skills
