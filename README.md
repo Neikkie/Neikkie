@@ -38,4 +38,4 @@ I bridge the gap between complex software engineering and business strategy. I d
 * **Data & Architecture:** CoreData, SwiftData, REST APIs, JSON Parsing, MVVM Design Pattern
 * **Business & Analytics:** Systems Analysis, Project Management (Agile/Scrum), Data Visualization
 
-📫 **Connect with me:** [www.linkedin.com/in/shanique-b-481927122] | [beckford.shanique93@gmail.com]
+📫 **Connect with me:** [www.linkedin.com/in/shanique-b-481927122] | [s.beckford@my.ccsu.edu]
