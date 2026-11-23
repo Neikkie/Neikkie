@@ -31,7 +31,6 @@ I bridge the gap between complex software engineering and business strategy. I d
 | [Dova Health Daily Tracking](https://github.com/Neikkie/Dova-Health-Daily-Tracking) | **Independent project.** iOS sleep and health tracker built with SwiftUI, SwiftData & HealthKit, live on the App Store |
 
 ---
----
 
 ## 🛠️ Core Skills
 * **Languages & Frameworks:** Swift, SwiftUI, Combine, Java, Python
